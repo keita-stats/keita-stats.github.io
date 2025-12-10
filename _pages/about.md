@@ -36,7 +36,8 @@ I am a Ph.D. student at the Department of Information Sciences, Tokyo University
 
 - Ph.D. Student in Information Sciences, Tokyo University of Science (Current)
 
-## Awards
+## Awards & Grants
 
 - [Best Presentation Award](https://www.applstat.gr.jp/award/winner/w-2024/), Japanese Society of Applied Statistics, 2024
+- [SPRING Program](https://www.tus.ac.jp/academics/development/innovative/) Fellow, JST Support for Pioneering Research Initiated by the Next Generation, 2024-
 
