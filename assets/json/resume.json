@@ -25,6 +25,26 @@
       "startDate": "2024",
       "endDate": "",
       "courses": ["Contingency table analysis", "Compositional data analysis"]
+    },
+    {
+      "institution": "Tokyo University of Science, Graduate School of Engineering, Department of Information Sciences",
+      "location": "Noda, Japan",
+      "url": "https://www.tus.ac.jp/",
+      "area": "Information Sciences",
+      "studyType": "Master of Engineering",
+      "startDate": "2021-04",
+      "endDate": "2023-03",
+      "courses": []
+    },
+    {
+      "institution": "Tokyo University of Science, Faculty of Engineering, Department of Information Sciences",
+      "location": "Noda, Japan",
+      "url": "https://www.tus.ac.jp/",
+      "area": "Information Sciences",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2017-04",
+      "endDate": "2021-03",
+      "courses": []
     }
   ],
   "awards": [

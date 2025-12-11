@@ -17,6 +17,17 @@
       description:
         - Member of Tahata Laboratory
         - Research focus on contingency table analysis and compositional data analysis
+    - title: Master of Engineering
+      institution: Tokyo University of Science, Graduate School of Engineering, Department of Information Sciences
+      year: 2023
+      description:
+        - Graduated in March 2023
+        - Research on contingency table analysis using simplicial geometry
+    - title: Bachelor of Engineering
+      institution: Tokyo University of Science, Faculty of Engineering, Department of Information Sciences
+      year: 2021
+      description:
+        - Graduated in March 2021
 
 - title: Research Interests
   type: nested_list
