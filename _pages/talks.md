@@ -13,7 +13,7 @@ nav_order: 3
 
 2. **Nakamura, K.**, Nakagawa, T., and Tahata, K. (2024). Orthogonal decomposition of probability tables with Aitchison geometry for symmetry assessment. *CFE-CMStatistics*, King's College London, London, UK.
 
-## 国内学会
+## Domestic Conferences
 
 1. **中村慶太**, 中川智之, 田畑耕治 (2025年3月): Aitchison幾何に基づく分割表の対称性について. *RIMS共同研究（グループ型A）統計モデルとその有効性*, 京都大学数理解析研究所.
 
