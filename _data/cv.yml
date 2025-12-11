@@ -12,10 +12,11 @@
   type: time_table
   contents:
     - title: Ph.D. Student in Information Sciences
-      institution: Tokyo University of Science, Noda, Japan
+      institution: Tokyo University of Science, Graduate School of Science and Technology, Department of Information Sciences
       year: 2024 -
       description:
         - Started in April 2024
+        - 創域理工学研究科 情報計算科学専攻
         - Member of Tahata Laboratory
         - Research focus on contingency table analysis and compositional data analysis
     - title: Research Student
