@@ -66,6 +66,16 @@
         - "Authors: Nakamura, K., Nakagawa, T., & Tahata, K."
         - "DOI: 10.17713/ajs.v53i4.1845"
 
+- title: Publications without Peer Review
+  type: time_table
+  contents:
+    - title: "On symmetry of contingency tables based on Aitchison geometry (Aitchison幾何に基づく分割表の対称性について)"
+      institution: RIMS Kôkyûroku, Vol. 2318, pp. 1-12
+      year: 2025
+      description:
+        - "Authors: Nakamura, K., Nakagawa, T., & Tahata, K."
+        - "URL: https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2318-01.pdf"
+
 - title: Honors and Awards
   type: time_table
   contents:
