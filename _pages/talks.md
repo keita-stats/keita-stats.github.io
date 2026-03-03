@@ -9,9 +9,11 @@ nav_order: 3
 
 ## International Conferences
 
-1. **Nakamura, K.**, Nakagawa, T., and Tahata, K. (2025). Geometric Marginal Homogeneity in Compositional Tables Based on Simplicial Geometry. *Further Developments of Information Geometry*, The University of Tokyo, Tokyo, Japan. (Poster)
+1. **Nakamura, K.**, Nakagawa, T., and Tahata, K. (2025). Aitchison geometric characterization of quasi-symmetry in square contingency tables. *CFE-CMStatistics*, Birkbeck, University of London, London, UK.
 
-2. **Nakamura, K.**, Nakagawa, T., and Tahata, K. (2024). Orthogonal decomposition of probability tables with Aitchison geometry for symmetry assessment. *CFE-CMStatistics*, King's College London, London, UK.
+2. **Nakamura, K.**, Nakagawa, T., and Tahata, K. (2025). Geometric Marginal Homogeneity in Compositional Tables Based on Simplicial Geometry. *Further Developments of Information Geometry*, The University of Tokyo, Tokyo, Japan. (Poster)
+
+3. **Nakamura, K.**, Nakagawa, T., and Tahata, K. (2024). Orthogonal decomposition of probability tables with Aitchison geometry for symmetry assessment. *CFE-CMStatistics*, King's College London, London, UK.
 
 ## Domestic Conferences
 
