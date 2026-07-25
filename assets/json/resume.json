@@ -103,14 +103,10 @@
   ],
   "skills": [
     {
-      "name": "Statistics",
+      "name": "Programming",
       "level": "",
-      "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Contingency table analysis",
-        "Compositional data analysis",
-        "Predictive Bayesian inference"
-      ]
+      "icon": "fa-solid fa-code",
+      "keywords": ["R"]
     }
   ],
   "languages": [
