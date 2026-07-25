@@ -24,13 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at the Department of Information Sciences, Tokyo University of Science, and a member of [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp). My research interests focus on **contingency table analysis**, **compositional data analysis**, and **martingale posterior distributions**.
+I am a Ph.D. student at the Department of Information Sciences, Tokyo University of Science, and a member of [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp). My research interests focus on **contingency table analysis**, **compositional data analysis**, and **predictive Bayesian inference**.
 
 ## Research Interests
 
 - Contingency table analysis
 - Compositional data analysis
-- Martingale posterior distributions
+- Predictive Bayesian inference
 
 ## Education
 
