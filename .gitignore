@@ -12,3 +12,9 @@ node_modules/
 vendor
 .idea
 .venv
+
+# LaTeX build output for cv.tex (the published PDF is assets/pdf/cv.pdf)
+/cv.aux
+/cv.log
+/cv.out
+/cv.pdf
