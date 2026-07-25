@@ -31,7 +31,6 @@ I am a Ph.D. student at the Department of Information Sciences, Tokyo University
 - Contingency table analysis
 - Compositional data analysis
 - Martingale posterior distributions
-- Statistical modeling
 
 ## Education
 

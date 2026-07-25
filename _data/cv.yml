@@ -48,12 +48,10 @@
     - title: Compositional Data Analysis
       items:
         - Application of information geometry
-        - Statistical modeling for compositional data
     - title: Martingale Posterior Distributions
       items:
-        - Predictive approaches to Bayesian inference
+        - Predictive Bayesian inference
         - Predictive resampling and the Bayesian bootstrap
-        - Uncertainty quantification for statistical models
 
 - title: Publications
   type: time_table
