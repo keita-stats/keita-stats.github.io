@@ -9,7 +9,7 @@ nav_order: 3
 
 ## International Conferences
 
-1. **Nakamura, K.** (2026). Visualizing symmetric and skew-symmetric interactions in square compositional tables. *CoDaWork*, Hotel Vila Galé Coimbra, Coimbra, Portugal. (Poster)
+1. **Nakamura, K.** (2026). Visualizing symmetric and skew-symmetric interactions in square compositional tables. *CoDaWork*, Hotel Vila Galé Coimbra, Coimbra, Portugal.
 
 2. **Nakamura, K.**, Nakagawa, T., and Tahata, K. (2025). Aitchison geometric characterization of quasi-symmetry in square contingency tables. *CFE-CMStatistics*, Birkbeck, University of London, London, UK.
 
