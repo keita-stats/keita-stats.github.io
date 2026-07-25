@@ -18,7 +18,7 @@
         - Started in April 2024
         - 創域理工学研究科 情報計算科学専攻
         - Member of Tahata Laboratory
-        - Research focus on contingency table analysis and compositional data analysis
+        - Research focus on contingency table analysis, compositional data analysis, and martingale posterior distributions
     - title: Research Student
       institution: Yokohama City University, Graduate School of Medicine, Department of Medicine
       year: 2023 - 2024
@@ -49,6 +49,11 @@
       items:
         - Application of information geometry
         - Statistical modeling for compositional data
+    - title: Martingale Posterior Distributions
+      items:
+        - Predictive approaches to Bayesian inference
+        - Predictive resampling and the Bayesian bootstrap
+        - Uncertainty quantification for statistical models
 
 - title: Publications
   type: time_table
