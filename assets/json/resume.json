@@ -134,7 +134,7 @@
     {
       "name": "Compositional Data Analysis",
       "icon": "fa-solid fa-chart-pie",
-      "keywords": ["Application of information geometry"]
+      "keywords": ["Aitchison geometry", "Compositional tables"]
     },
     {
       "name": "Predictive Bayesian Inference",
